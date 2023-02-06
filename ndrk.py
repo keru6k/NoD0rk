@@ -32,8 +32,8 @@ class info:
 usg = """{}NoD0rk, A simple, easy to use Dorker
 {}
 Usage:
-    nodork1.py <args> <page> [options]
-    nodork1.py (-h | --help)
+    ndrk.py <args> <page> [options]
+    ndrk.py (-h | --help)
 
 Args:
     <url>    URL parameter that will be dorked.
